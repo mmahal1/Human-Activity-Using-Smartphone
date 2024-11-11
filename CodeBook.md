@@ -82,4 +82,3 @@ The tidy dataset includes:
 - **2 Identifier Variables**: `subject` and `activity`.
 - **66 Measurement Variables**: Each representing an averaged mean or standard deviation measurement across activities and subjects.
 
-This structure provides a clear, consistent naming convention for easy interpretation of each measurement in the dataset.
